@@ -83,7 +83,7 @@ We partner with **early-stage startups** and founders to provide:
      - Interactive Quizzes & Auto-Grading  
      - Marketing & Funnel Builder  
 
-3. **ShopShark**  
+3. **ShopSpark**  
    - **Repo**: [github.com/axioms-studio/shopspark](https://github.com/axioms-studio/shopspark)  
    - **Description**: A versatile storefront + affiliate management system for selling digital products like e-books, templates, and courses.  
    - **Key Highlights**:  
