@@ -11,7 +11,7 @@
 2. [What We Do](#what-we-do)  
 3. [Why Axioms Studio](#why-axioms-studio)  
 4. [Open Source Projects](#open-source-projects)  
-5. [Portfolio Highlights](#portfolio-highlights)  
+5. [Open Source Portfolio Highlights](#open-source-portfolio-highlights)  
 6. [Get In Touch](#get-in-touch)
 
 ---
@@ -28,7 +28,7 @@
 We partner with **early-stage startups** and founders to provide:
 
 - **End-to-End Software Development**  
-  From MVP to a production-ready platform with cutting-edge technologies.
+  From MVP to a production-ready platform using cutting-edge technologies.
 
 - **Fundraising Strategy & Pitch Decks**  
   Designing strong fundraising strategies and crafting impactful decks to captivate investors.
@@ -67,6 +67,7 @@ We partner with **early-stage startups** and founders to provide:
 > We believe **open source** is the cornerstone of fast, transparent, and impactful innovation.
 
 1. **LaunchLane**  
+   - **Repository**: [github.com/axioms-studio/launchlane](https://github.com/axioms-studio/launchlane)  
    - **Description**: A pre-launch waitlist + payment tool (with Stripe integration) to validate ideas and secure revenue before the final product is live.  
    - **Key Features**:  
      - Early Access & Upsells  
@@ -74,6 +75,7 @@ We partner with **early-stage startups** and founders to provide:
      - Automated Email Marketing Workflows  
 
 2. **CourseCraft AI**  
+   - **Repository**: [github.com/axioms-studio/coursecraft](https://github.com/axioms-studio/coursecraft)  
    - **Description**: An AI-driven platform that assists instructors in outlining, structuring, and marketing their online courses.  
    - **Key Features**:  
      - AI-Generated Course Outlines  
@@ -81,6 +83,7 @@ We partner with **early-stage startups** and founders to provide:
      - Marketing & Funnel Builder  
 
 3. **ShopShark**  
+   - **Repository**: [github.com/axioms-studio/shopspark](https://github.com/axioms-studio/shopspark)  
    - **Description**: A versatile storefront + affiliate management system for selling digital products like e-books, templates, and courses.  
    - **Key Features**:  
      - Customizable Storefront Setup  
@@ -92,15 +95,18 @@ Check out our repositories, fork them, and help us push the boundaries of open s
 
 ---
 
-## Portfolio Highlights
-Here are a few ventures we’ve partnered with and launched:
+## Open Source Portfolio Highlights
 
-- **[MAMP](https://www.instagram.com/mamp.nutricao/)** – Personalized nutrition platform.  
-- **[OneCampaign](https://onecampaign.com.br/)** – Cause-driven fundraising and community engagement.  
-- **[CoinWatchHub](https://www.coinwatchhub.com/)** – Real-time tracking and insights for crypto enthusiasts.  
-- **[DeuLance](https://deulance.com.br/)** – A freelance hub connecting businesses with top local talent.  
-- **[Hug](https://www.hugyc.io/)** – Reinventing community building and user engagement in web3.  
-- **[Ermis](https://ermis.ai/)** – AI-driven logistics optimization and intelligent routing.
+Below are our current open source products, developed and maintained by the Axioms Studio team. Dive into the repos to learn more about the tech stack, documentation, and how you can contribute.
+
+- **[LaunchLane](https://github.com/axioms-studio/launchlane)**  
+  The go-to waitlist + payment integration for creators who want to validate ideas before going live.
+
+- **[CourseCraft AI](https://github.com/axioms-studio/coursecraft)**  
+  AI-driven tools for course creators to streamline planning, content generation, and marketing.
+
+- **[ShopShark](https://github.com/axioms-studio/shopspark)**  
+  A powerful storefront and affiliate platform, all in one.
 
 ---
 
